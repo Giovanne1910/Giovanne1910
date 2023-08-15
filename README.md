@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Giovanne1910
 - 👀 I’m interested in front-end developer
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🌱 I’m currently learning HTML, CSS, JavaScript and React
 - 💞️ I’m looking to collaborate on share my knowledge
 - 📫 How to reach me for e-mail: rosagiovanne@gmail.com and Linkedin: https://www.linkedin.com/in/giovanne-rosa-5b4509137/
 
